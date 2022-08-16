@@ -9,8 +9,7 @@ const reverseWords = (sentence) => {
 console.log(reverseWords("Alisher Qodirov"));
 
 
-
-// 2-masala
+// 2-masala:
 mixedNumber([2,4,9,3,5]);
 
 function mixedNumber(numbers){
@@ -30,7 +29,7 @@ function mixedNumber(numbers){
 
 
 
-// 3-masala 
+// 3-masala: 
 doubleLetter("Hello"); 
 
 function doubleLetter(text) {
